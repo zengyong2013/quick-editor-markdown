@@ -1,5 +1,5 @@
 {
-  "name": "@docs/quick-editor",
+  "name": "quick-editor-markdown",
   "version": "1.0.1",
   "description": "web 版 Markdown 编辑器",
   "main": "dist/index.js",

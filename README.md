@@ -1,5 +1,5 @@
-## 💡 Quick Editor
-[QuickEditor](https://git.corp.kuaishou.com/ks-ep/ks-ep-fe/docs/is-docs-markdown-editor) 是一款基于 Web 浏览器，即时渲染的 Markdown 编辑器。它基于 TypeScript 和 JavaScript 打造，并且不依赖任何第三方框架，可以方便的进行扩展并接入到原生 JavaScript、Vue、React、Angular等应用中。如果有需要，它也拥有扩展协同编辑的能力。
+## 💡 Quick Editor Markdown
+[quick-editor-markdown](https://github.com/zengyong2013/quick-editor-markdown.git) 是一款基于 Web 浏览器，即时渲染的 Markdown 编辑器。它基于 TypeScript 和 JavaScript 打造，并且不依赖任何第三方框架，可以方便的进行扩展并接入到原生 JavaScript、Vue、React、Angular等应用中。如果有需要，它的底层同时也支持了协同编辑的能力。
 ### ✨ 中文演示
 !['中文演示图'](https://static.yximgs.com/udata/pkg/IS-DOCS-MD/zengyong/img/demo-zh.gif)
 ### ✨ 英文演示
